@@ -37,8 +37,8 @@ ________________________________________________________________________________
 
 <br>
 
-Olá!,Sou Robrthy tenho 12 anos estudo desde meus 10 anos, tenho um pouco de experiencia com Html5 e Css3 agora estou aprendendo JavaScript. <br>
-
+Olá!,Sou Robrthy tenho 12 anos estudo desde meus 10 anos, tenho um pouco de experiencia com Html5 e Css3 agora estou aprendendo JavaScript. 
+<br>  
 Começei fazendo primeiro o curso do Gustavo Guanabara lá aprendi a mecher com o Vs cocde aprendi as tags h1,h2,h3.. aprendi Css3, e um pouco de JavaScript depois fiz outro curso dele fiz um grande site que se chama GOOGLE GLASS, depois de eu terminar esse curso eu fui para o curso da Rocketseat, lá, estou aprendendo mais Lingugens de programação.
 
 Meu encentivo para programar veio do meu irmão Roger, ele tem 26 anos ele é apaixonado por resolver problemas utilizando a progrmação,Acesse o gitHub Dele: https://github.com/rogersene/
@@ -49,27 +49,14 @@ ________________________________________________________________________________
 
 ## Meus Projetos Realizados😎
 
+Google Glass:https://robrthy.github.io/google-Glass/
+
 Player de Música:https://robrthy.github.io/player-de-musica/
-<br>
-Product Sofá: https://robrthy.github.io/Product-card/
+
+Product Sofá: https://robrthy.github.io/Product-card/ 
 
 
 
 ____________________________________________________________________________________________________________________________________________ 
 
 ## Meu discord: robrthy#3385
-
-<!--
-**Robrthy/robrthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
