@@ -47,7 +47,7 @@ Meu encentivo para programar veio do meu irmão Roger, ele tem 26 anos ele é ap
 <br>
 ____________________________________________________________________________________________________________________________________________ 
 
-## Meus Projetos Realizados😎
+## Meus Projetos Realizados😎 "com a ajuda do meu irmão"
 
 Google Glass:https://robrthy.github.io/google-Glass/
 
