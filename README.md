@@ -51,7 +51,7 @@ ________________________________________________________________________________
 
 Player de Música:https://robrthy.github.io/player-de-musica/
 <br>
-Product Sofá: https://robrthy.github.io/Product-card/ (EM MANUTENÇÃO)
+Product Sofá: https://robrthy.github.io/Product-card/
 
 
 
