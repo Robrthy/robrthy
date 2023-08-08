@@ -53,7 +53,7 @@ Google Glass:https://robrthy.github.io/google-Glass/
 
 Player de Música:https://robrthy.github.io/player-de-musica/
 
-Product Sofá: https://robrthy.github.io/Product-card/ 
+Produto Sofá: https://robrthy.github.io/Product-card/ 
 
 Botões e Cursores: https://robrthy.github.io/botoes_e_cursores/ 
 
