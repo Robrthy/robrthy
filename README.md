@@ -57,7 +57,7 @@ Produto Sofá: https://robrthy.github.io/Product-card/
 
 Botões e Cursores: https://robrthy.github.io/botoes_e_cursores/ 
 
-                     (Novo Projeto saindo) 
+(Novo Projeto saindo) 
 
 
 ____________________________________________________________________________________________________________________________________________ 
