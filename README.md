@@ -47,11 +47,15 @@ Meu encentivo para programar veio do meu irmão Roger, ele tem 26 anos ele é ap
 <br>
 ____________________________________________________________________________________________________________________________________________ 
 
-## Meus Projetos Realizados😎
+## Cursos da Rocketseat🤓
 
-Google Glass: https://robrthy.github.io/google-Glass/
+Trilha Conectar:https://app.rocketseat.com.br/discover-2022/trails/conectar
 
-### Curso da Rocketseat
+Trilha Fundamentar:https://app.rocketseat.com.br/discover-2022/trails/fundamentar
+
+Trilha Especializar:https://app.rocketseat.com.br/discover-2022/trails/especializar
+
+### Meus Projeto da Rocketseat Feitos😎
 
 Player de Música: https://robrthy.github.io/player-de-musica/
 
@@ -61,7 +65,15 @@ Botões e Cursores: https://robrthy.github.io/botoes_e_cursores/
 
 (Novo Projeto saindo) 
 
+## Projeto #Bora-codar AULAS😉
+ 
+aula 01:https://app.rocketseat.com.br/plus/lesson/bora-codar-um-player-de-musica-desafio-01
 
-____________________________________________________________________________________________________________________________________________ 
+aula 02:https://app.rocketseat.com.br/plus/lesson/bora-codar-um-card-de-produto-desafio-02
+
+aula 03:https://app.rocketseat.com.br/plus/lesson/bora-codar-botoes-e-cursores-desafio-03
+
+aula 04:https://app.rocketseat.com.br/plus/lesson/bora-codar-um-chat-desafio-04
+___________________________________________________________________________________________________________________________________________ 
 
 ## Meu discord: robrthy#3385
