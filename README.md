@@ -21,7 +21,7 @@
 </div><br>
 ____________________________________________________________________________________________________________________________________________ 
 
-## Cursos que eu fiz e Recomendo 🖖
+## Sites de Cursos que eu fiz e Recomendo 🖖
 <br>
 
 Curso em video:https://www.cursoemvideo.com/
@@ -30,6 +30,24 @@ Curso em video:https://www.cursoemvideo.com/
 
 Rocketseat:https://app.rocketseat.com.br/discover/course/ds-tipos-app-web/tipos-de-aplicacoes-web/o-que-e-uma-webpage
 
+## Cursos da Rocketseat🤓
+
+Trilha Conectar:https://app.rocketseat.com.br/discover-2022/trails/conectar
+
+Trilha Fundamentar:https://app.rocketseat.com.br/discover-2022/trails/fundamentar
+
+Trilha Especializar:https://app.rocketseat.com.br/discover-2022/trails/especializar
+
+
+## Projeto Da Rocketseat #Bora-codar AULAS😉
+ 
+aula 01:https://app.rocketseat.com.br/plus/lesson/bora-codar-um-player-de-musica-desafio-01
+
+aula 02:https://app.rocketseat.com.br/plus/lesson/bora-codar-um-card-de-produto-desafio-02
+
+aula 03:https://app.rocketseat.com.br/plus/lesson/bora-codar-botoes-e-cursores-desafio-03
+
+aula 04:https://app.rocketseat.com.br/plus/lesson/bora-codar-um-chat-desafio-04
 <br>
 ____________________________________________________________________________________________________________________________________________ 
 
@@ -47,13 +65,6 @@ Meu encentivo para programar veio do meu irmão Roger, ele tem 26 anos ele é ap
 <br>
 ____________________________________________________________________________________________________________________________________________ 
 
-## Cursos da Rocketseat🤓
-
-Trilha Conectar:https://app.rocketseat.com.br/discover-2022/trails/conectar
-
-Trilha Fundamentar:https://app.rocketseat.com.br/discover-2022/trails/fundamentar
-
-Trilha Especializar:https://app.rocketseat.com.br/discover-2022/trails/especializar
 
 ### Meus Projeto da Rocketseat Feitos😎
 
@@ -65,15 +76,7 @@ Botões e Cursores: https://robrthy.github.io/botoes_e_cursores/
 
 (Novo Projeto saindo) 
 
-## Projeto #Bora-codar AULAS😉
- 
-aula 01:https://app.rocketseat.com.br/plus/lesson/bora-codar-um-player-de-musica-desafio-01
 
-aula 02:https://app.rocketseat.com.br/plus/lesson/bora-codar-um-card-de-produto-desafio-02
-
-aula 03:https://app.rocketseat.com.br/plus/lesson/bora-codar-botoes-e-cursores-desafio-03
-
-aula 04:https://app.rocketseat.com.br/plus/lesson/bora-codar-um-chat-desafio-04
 ___________________________________________________________________________________________________________________________________________ 
 
 ## Meu discord: robrthy#3385
