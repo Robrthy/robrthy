@@ -30,6 +30,8 @@ Curso em video:https://www.cursoemvideo.com/
 
 Rocketseat:https://app.rocketseat.com.br/discover/course/ds-tipos-app-web/tipos-de-aplicacoes-web/o-que-e-uma-webpage
 
+____________________________________________________________________________________________________________________________________________
+
 ## Cursos da Rocketseat🤓
 
 Trilha Conectar:https://app.rocketseat.com.br/discover-2022/trails/conectar
@@ -38,8 +40,9 @@ Trilha Fundamentar:https://app.rocketseat.com.br/discover-2022/trails/fundamenta
 
 Trilha Especializar:https://app.rocketseat.com.br/discover-2022/trails/especializar
 
+____________________________________________________________________________________________________________________________________________
 
-## Projeto Da Rocketseat #Bora-codar AULAS😉
+## Projeto Da Rocketseat #Bora-Codar AULAS😉
  
 aula 01:https://app.rocketseat.com.br/plus/lesson/bora-codar-um-player-de-musica-desafio-01
 
