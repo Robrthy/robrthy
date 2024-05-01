@@ -81,7 +81,9 @@ Chat: https://robrthy.github.io/Chat/
 
 Calculadora:https://robrthy.github.io/Calculadora/
 
+### Meu Site feito pela Aura
 
+(em breve estamos com problemas no trabalho)
 ___________________________________________________________________________________________________________________________________________ 
 
 ## Meu discord: robrthy#3385
