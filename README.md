@@ -1,4 +1,4 @@
-# Olá! sou Robrthy de sene crescencio! 😃
+# Olá! sou Robrthy sene crescencio! 😃
 
 
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
@@ -58,12 +58,9 @@ ________________________________________________________________________________
 
 <br>
 
-Olá!,Sou Robrthy tenho 12 anos estudo desde meus 10 anos, tenho um pouco de experiencia com Html5 e Css3 agora estou aprendendo JavaScript. 
+Olá!,Sou Robrthy tenho 13 anos estudo desde meus 10 anos, tenho um pouco de experiencia com Html5 e Css3 agora estou aprendendo JavaScript. 
 <br>  
-Começei fazendo primeiro o curso do Gustavo Guanabara lá aprendi a mecher com o Vs cocde aprendi as tags h1,h2,h3.. aprendi Css3, e um pouco de JavaScript depois fiz outro curso dele fiz um grande site que se chama GOOGLE GLASS, depois de eu terminar esse curso eu fui para o curso da Rocketseat, lá, estou aprendendo mais Lingugens de programação.
-
-Meu encentivo para programar veio do meu irmão Roger, ele tem 26 anos ele é apaixonado por resolver problemas utilizando a progrmação,Acesse o gitHub Dele: https://github.com/rogersene/
-
+Começei fazendo primeiro o curso do Gustavo Guanabara lá aprendi a mecher com o Vs cocde aprendi as tags h1,h2,h3.. aprendi Css3, e um pouco de JavaScript depois fiz outro curso dele fiz um grande site que se chama GOOGLE GLASS, depois de eu terminar esse curso eu fui para o curso da Rocketseat, lá, estou aprendendo mais Lingugens de programação.Atualmente estou fazendo um trablaho da alura.
 
 <br>
 ____________________________________________________________________________________________________________________________________________ 
@@ -81,9 +78,9 @@ Chat: https://robrthy.github.io/Chat/
 
 Calculadora:https://robrthy.github.io/Calculadora/
 
-### Meu Site feito pela Aura
+### Meu Site feito pela Alura
 
-(em breve estamos com problemas no trabalho)
+(Estamos com problema no trabalho, mais em breve terminaremos.)
 ___________________________________________________________________________________________________________________________________________ 
 
 ## Meu discord: robrthy_47611
