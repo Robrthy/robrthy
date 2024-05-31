@@ -83,4 +83,4 @@ Calculadora:https://robrthy.github.io/Calculadora/
 (Estamos com problema no trabalho, mais em breve terminaremos.)
 ___________________________________________________________________________________________________________________________________________ 
 
-## Meu discord: robrthy_47611
+## Meu discord:(estamos com problemas para ter um discord, mas embreve teremos um..)
