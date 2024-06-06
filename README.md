@@ -21,10 +21,25 @@
 </div><br>
 ____________________________________________________________________________________________________________________________________________ 
 
+## Sobre min 😁 
+
+<br>
+
+Olá!,Sou Robrthy tenho 13 anos estudo desde meus 10 anos, já tenho expêriencia com css3 e html5
+<br>  
+Começei fazendo primeiro o curso do Gustavo Guanabara lá aprendi a mecher com o VSCODE aprendi as tags h1,h2,h3... aprendi Css3, e um pouco de JavaScript depois fiz outro curso dele, fiz um grande site Chamado GOOGLE GLASS, depois de eu terminar esse curso eu fui para o curso da Rocketseat, lá eu aprendi mais Lingugens de programação.BEM-VINDO AO MEU GIT-HUB ESPERO QUE O SENHOR(A) GOSTE.
+
+<br>
+____________________________________________________________________________________________________________________________________________ 
+
 ## Sites de Cursos que eu fiz e Recomendo 🖖
 <br>
 
 Curso em video:https://www.cursoemvideo.com/
+
+<br>
+
+Alura:https://cursos.alura.com.br/course/bootstrap5-landing-page-responsiva
 
 <br>
 
@@ -54,19 +69,7 @@ aula 04:https://app.rocketseat.com.br/plus/lesson/bora-codar-um-chat-desafio-04
 <br>
 ____________________________________________________________________________________________________________________________________________ 
 
-## Sobre min 😁 
-
-<br>
-
-Olá!,Sou Robrthy tenho 13 anos estudo desde meus 10 anos, tenho um pouco de experiencia com Html5 e Css3 agora estou aprendendo JavaScript. 
-<br>  
-Começei fazendo primeiro o curso do Gustavo Guanabara lá aprendi a mecher com o Vs cocde aprendi as tags h1,h2,h3.. aprendi Css3, e um pouco de JavaScript depois fiz outro curso dele fiz um grande site que se chama GOOGLE GLASS, depois de eu terminar esse curso eu fui para o curso da Rocketseat, lá, estou aprendendo mais Lingugens de programação.Atualmente estou fazendo um trablaho da alura.
-
-<br>
-____________________________________________________________________________________________________________________________________________ 
-
-
-### Meus Projeto da Rocketseat Feitos😎
+### Meus Exercicios da Rocketseat Feitos😎
 
 Player de Música: https://robrthy.github.io/player-de-musica/
 
@@ -83,4 +86,4 @@ Calculadora:https://robrthy.github.io/Calculadora/
 Meteora:https://robrthy.github.io/Meteora/
 ___________________________________________________________________________________________________________________________________________ 
 
-## Meu discord:(estamos com problemas para ter um discord, mas embreve teremos um..)
+## Meu discord:(estamos com problemas para ter um discord fixo, mas embreve teremos um..)
