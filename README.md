@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 Olá!,Sou Robrthy tenho 13 anos estudo desde meus 10 anos, já tenho expêriencia com css3 e html5
 <br>  
-Começei fazendo primeiro o curso do Gustavo Guanabara lá aprendi a mecher com o VSCODE aprendi as tags h1,h2,h3... aprendi Css3, e um pouco de JavaScript depois fiz outro curso dele, fiz um grande site Chamado GOOGLE GLASS, depois de eu terminar esse curso eu fui para o curso da Rocketseat, lá eu aprendi mais Lingugens de programação.BEM-VINDO AO MEU GIT-HUB ESPERO QUE O SENHOR(A) GOSTE.
+Começei fazendo primeiro o curso do Gustavo Guanabara lá aprendi a mecher com o VSCODE aprendi as tags h1,h2,h3... aprendi Css3, e um pouco de JavaScript depois fiz outro curso dele, fiz um grande site Chamado GOOGLE GLASS(https://robrthy.github.io/google-Glass/), depois de eu terminar esse curso eu fui para o curso da Rocketseat, lá eu aprendi mais Lingugens de programação.BEM-VINDO AO MEU GIT-HUB ESPERO QUE O SENHOR(A) GOSTE.
 
 <br>
 ____________________________________________________________________________________________________________________________________________ 
@@ -69,7 +69,7 @@ aula 04:https://app.rocketseat.com.br/plus/lesson/bora-codar-um-chat-desafio-04
 <br>
 ____________________________________________________________________________________________________________________________________________ 
 
-### Meus Exercicios da Rocketseat Feitos😎
+### Meus Exercicios da Rocketseat Feitos 😏
 
 Player de Música: https://robrthy.github.io/player-de-musica/
 
@@ -83,7 +83,9 @@ Calculadora:https://robrthy.github.io/Calculadora/
 
 ____________________________________________________________________________________________________________________________________________
 
-### Meu Site feito pela Alura 
+### Meus maiores sites já feito por min 😎
+
+Google glass:https://robrthy.github.io/google-Glass/
 
 Meteora:https://robrthy.github.io/Meteora/
 ___________________________________________________________________________________________________________________________________________ 
