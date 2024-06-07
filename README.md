@@ -21,7 +21,7 @@
 </div><br>
 ____________________________________________________________________________________________________________________________________________ 
 
-## Sobre min 😁 
+# Sobre min 😁 
 
 <br>
 
@@ -32,7 +32,7 @@ Começei fazendo primeiro o curso do Gustavo Guanabara lá aprendi a mecher com 
 <br>
 ____________________________________________________________________________________________________________________________________________ 
 
-## Sites de Cursos que eu fiz e Recomendo 🖖
+# Sites de Cursos que eu fiz e Recomendo 🖖
 <br>
 
 Curso em video:https://www.cursoemvideo.com/
@@ -47,7 +47,7 @@ Rocketseat:https://app.rocketseat.com.br/discover/course/ds-tipos-app-web/tipos-
 
 ____________________________________________________________________________________________________________________________________________
 
-## Cursos da Rocketseat🤓
+# Cursos da Rocketseat🤓
 
 Trilha Conectar:https://app.rocketseat.com.br/discover-2022/trails/conectar
 
@@ -57,7 +57,7 @@ Trilha Especializar:https://app.rocketseat.com.br/discover-2022/trails/especiali
 
 ____________________________________________________________________________________________________________________________________________
 
-## Projeto Da Rocketseat #Bora-Codar AULAS😉
+# Projeto Da Rocketseat #Bora-Codar AULAS😉
  
 aula 01:https://app.rocketseat.com.br/plus/lesson/bora-codar-um-player-de-musica-desafio-01
 
@@ -69,7 +69,7 @@ aula 04:https://app.rocketseat.com.br/plus/lesson/bora-codar-um-chat-desafio-04
 <br>
 ____________________________________________________________________________________________________________________________________________ 
 
-### Meus Exercicios da Rocketseat Feitos 😏
+# Meus Exercicios da Rocketseat Feitos 😏
 
 Player de Música: https://robrthy.github.io/player-de-musica/
 
@@ -83,15 +83,15 @@ Calculadora:https://robrthy.github.io/Calculadora/
 
 ____________________________________________________________________________________________________________________________________________
 
-### Meus maiores sites já feito por min 😎
+# Meus maiores sites já feito por min 😎
 
-# Curso em video:
+### Curso em video:
 Google glass:https://robrthy.github.io/google-Glass/
  
 <br>
 
-# Alura:
+### Alura:
 Meteora:https://robrthy.github.io/Meteora/
 ___________________________________________________________________________________________________________________________________________ 
 
-## Meu discord:(estamos com problemas para ter um discord fixo, mas embreve teremos um..)
+# Meu discord:(estamos com problemas para ter um discord fixo, mas embreve teremos um..)
