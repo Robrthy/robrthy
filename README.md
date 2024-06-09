@@ -1,4 +1,4 @@
-# Olá! sou Robrthy sene crescencio! 😃
+# Olá mundo!, sou Robrthy sene crescencio!😃
 
 
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
@@ -8,7 +8,7 @@
 ![robrthy GitHub stats](https://github-readme-stats.vercel.app/api?username=robrthy&show_icons=true&theme=radical)
 
 
-## Tecnologias que eu uso!🙂
+## Tecnologias que eu uso no meu dia dia!🙂
 
 <div style="display: inlaine_block"><br/>
 
@@ -21,15 +21,18 @@
 </div><br>
 ____________________________________________________________________________________________________________________________________________ 
 
-# Sobre min 😁 
+# Sobre min😁 
 
 <br>
 
 Olá!,Sou Robrthy tenho 13 anos estudo desde meus 10 anos, já tenho expêriencia com css3 e html5
 <br>  
-Começei fazendo primeiro o curso do Gustavo Guanabara lá aprendi a mecher com o VSCODE aprendi as tags h1,h2,h3... aprendi Css3, e um pouco de JavaScript depois fiz outro curso dele, fiz um grande site Chamado GOOGLE GLASS(https://robrthy.github.io/google-Glass/), depois de eu terminar esse curso eu fui para o curso da Rocketseat, lá eu aprendi mais Lingugens de programação.BEM-VINDO AO MEU GIT-HUB ESPERO QUE O SENHOR(A) GOSTE.
+Começei fazendo primeiro o curso do Gustavo Guanabara lá aprendi a mecher com o VSCODE aprendi as tags h1,h2,h3... aprendi Css3, e um pouco de JavaScript depois fiz outro curso dele, fiz um grande site Chamado GOOGLE GLASS(https://robrthy.github.io/google-Glass/), depois de eu terminar esse curso eu fui para o curso da Rocketseat, lá eu aprendi mais Lingugens de programação.
 
 <br>
+
+                    BEM-VINDO AO MEU GIT-HUB ESPERO QUE O SENHOR(A) GOSTE.
+
 ____________________________________________________________________________________________________________________________________________ 
 
 # Sites de Cursos que eu fiz e Recomendo 🖖
