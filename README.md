@@ -31,7 +31,7 @@ Começei fazendo primeiro o curso do Gustavo Guanabara lá aprendi a mecher com 
 
 <br>
 
-                    BEM-VINDO AO MEU GIT-HUB ESPERO QUE O SENHOR(A) GOSTE.
+                            BEM-VINDO AO MEU GIT-HUB ESPERO QUE O SENHOR(A) GOSTE.
 
 ____________________________________________________________________________________________________________________________________________ 
 
