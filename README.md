@@ -25,14 +25,32 @@ ________________________________________________________________________________
 
 <br>
 
-Olá!,Sou Robrthy tenho 13 anos estudo desde meus 10 anos, já tenho expêriencia com css3 e html5
+Olá!,Bem-vindo ao meu git-hub Sou Robrthy tenho 13 anos estudo desde meus 10 anos, já tenho expêriencia com css3 e html5
 <br>  
-Começei fazendo primeiro o curso do Gustavo Guanabara lá aprendi a mecher com o VSCODE aprendi as tags h1,h2,h3... aprendi Css3, e um pouco de JavaScript depois fiz outro curso dele, fiz um grande site Chamado GOOGLE GLASS(https://robrthy.github.io/google-Glass/), depois de eu terminar esse curso eu fui para o curso da Rocketseat, lá eu aprendi mais Lingugens de programação.
+Começei fazendo primeiro o curso do Gustavo Guanabara lá aprendi a mecher com o VSCODE aprendi as tags h1,h2,h3 aprendi Css3 e Html5..., e um pouco de JavaScript. depois fiz outro curso dele, fiz um grande site Chamado GOOGLE GLASS:(https://robrthy.github.io/google-Glass/), depois de eu terminar esse curso eu fui para o curso da Rocketseat, lá eu aprendi mais Lingugens de programação.
 
 <br>
 
-                            BEM-VINDO AO MEU GIT-HUB ESPERO QUE O SENHOR(A) GOSTE.
+BEM-VINDO AO MEU GIT-HUB!, ESPERO QUE SENHOR(A) GOSTE DO MEU ESFORÇO.
+____________________________________________________________________________________________________________________________________________ 
 
+# visite meu site dá uma moral ai pro nois😉
+
+<br>
+
+### Meus principais sites 
+
+Meteora: https://robrthy.github.io/Meteora/
+
+Google glass: https://robrthy.github.io/google-Glass/
+
+Chat: https://robrthy.github.io/Chat/
+
+Calculador: https://robrthy.github.io/Calculadora/
+
+Player de música:  https://robrthy.github.io/player-de-musica/
+
+<br>
 ____________________________________________________________________________________________________________________________________________ 
 
 # Sites de Cursos que eu fiz e Recomendo 🖖
@@ -82,19 +100,19 @@ Botões e Cursores: https://robrthy.github.io/botoes_e_cursores/
 
 Chat: https://robrthy.github.io/Chat/
 
-Calculadora:https://robrthy.github.io/Calculadora/
+Calculadora: https://robrthy.github.io/Calculadora/
 
 ____________________________________________________________________________________________________________________________________________
 
 # Meus maiores sites já feito por min 😎
 
 ### Curso em video:
-Google glass:https://robrthy.github.io/google-Glass/
+Google glass: https://robrthy.github.io/google-Glass/
 <br>
 ### Alura:
-Meteora:https://robrthy.github.io/Meteora/
+Meteora: https://robrthy.github.io/Meteora/
 <br>
-Serenatto:(embreve...hehe)
+Serenatto: (embreve...hehe)
 ___________________________________________________________________________________________________________________________________________ 
 
 # Meu discord:(estamos com problemas para ter um discord fixo, mas embreve teremos um..)
