@@ -38,7 +38,9 @@ ________________________________________________________________________________
 
 <br>
 
-### Meus principais sites 
+### Meus principais sites ja feitos 
+
+Serenatto: https://robrthy.github.io/Serenatto/
 
 Meteora: https://robrthy.github.io/Meteora/
 
@@ -112,7 +114,10 @@ Google glass: https://robrthy.github.io/google-Glass/
 ### Alura:
 Meteora: https://robrthy.github.io/Meteora/
 <br>
-Serenatto: (embreve...hehe)
+Serenatto: https://robrthy.github.io/Serenatto/
+
 ___________________________________________________________________________________________________________________________________________ 
 
 # Meu discord:(estamos com problemas para ter um discord fixo, mas embreve teremos um..)
+
+
