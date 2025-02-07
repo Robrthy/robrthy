@@ -38,7 +38,7 @@ ________________________________________________________________________________
 
 <br>
 
-### Meus principais sites ja feitos 
+### Meus principais sites ja feitos 🥱
 
 Serenatto: https://robrthy.github.io/Serenatto/
 
@@ -51,6 +51,8 @@ Chat: https://robrthy.github.io/Chat/
 Calculador: https://robrthy.github.io/Calculadora/
 
 Player de música:  https://robrthy.github.io/player-de-musica/
+
+Vidflow: https://robrthy.github.io/Vidflow/
 
 <br>
 ____________________________________________________________________________________________________________________________________________ 
@@ -119,7 +121,5 @@ Serenatto: https://robrthy.github.io/Serenatto/
 Vidflow: https://robrthy.github.io/Vidflow/
 
 ___________________________________________________________________________________________________________________________________________ 
-
-# Meu discord:(estamos com problemas para ter um discord fixo, mas embreve teremos um..)
 
 
