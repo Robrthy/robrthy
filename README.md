@@ -48,7 +48,7 @@
 ---
 
 ## 😁 Sobre mim
-✨ Tenho 13 anos, estudo programação desde os 10 e já desenvolvi vários projetos com **HTML, CSS e JavaScript**.  
+✨ Tenho 15 anos, estudo programação desde os 10 e já desenvolvi vários projetos com **HTML, CSS e JavaScript**.  
 Comecei no **Curso em Vídeo com Gustavo Guanabara**, depois fiz projetos como o **Google Glass** e segui para os cursos da **Rocketseat** e **Alura**.  
 
 💡 Sempre aprendendo e criando novos projetos!  
