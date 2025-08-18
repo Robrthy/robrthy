@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Robrthy Sene!
 
 💻 Estudando programação desde os 10 anos | 🚀 Apaixonado por tecnologia  
-📍 13 anos, Brasil  
+📍 15 anos, Brasil  
 
 ---
 
