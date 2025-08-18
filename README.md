@@ -14,24 +14,20 @@
 
 ---
 
+## 🌟 Projeto em destaque
+- ☕ [Cafeteria Bonjour](https://robrthy.github.io/CafeteriaBonjour/) – Último site desenvolvido, totalmente responsivo e moderno.  
+
+---
+
 ## 📌 Projetos principais
-
 - 🎥 [Vidflow](https://robrthy.github.io/Vidflow/) – Plataforma de streaming de vídeos  
-  ![Vidflow](https://raw.githubusercontent.com/robrthy/Vidflow/main/preview.png)  
-
-- ☕ [Serenatto](https://robrthy.github.io/Serenatto/) – Site de cafeteria responsivo  
-  ![Serenatto](https://raw.githubusercontent.com/robrthy/Serenatto/main/preview.png)  
-
 - 🛍️ [Meteora](https://robrthy.github.io/Meteora/) – Loja online moderna  
-  ![Meteora](https://raw.githubusercontent.com/robrthy/Meteora/main/preview.png)  
-
 - 🤖 [Google Glass](https://robrthy.github.io/google-Glass/) – Projeto Curso em Vídeo  
-  ![Google Glass](https://raw.githubusercontent.com/robrthy/google-Glass/main/preview.png)  
+- ☕ [Serenatto](https://robrthy.github.io/Serenatto/) – Site de cafeteria  
 
 ---
 
 ## 🎯 Outros projetos
-
 - 📱 [Chat](https://robrthy.github.io/Chat/)  
 - 📊 [Calculadora](https://robrthy.github.io/Calculadora/)  
 - 🎵 [Player de Música](https://robrthy.github.io/player-de-musica/)  
@@ -39,8 +35,6 @@
 - 📝 [Lista de Compras](https://robrthy.github.io/Compraslista/)  
 - 🛋️ [Product Card (Sofá)](https://robrthy.github.io/Product-card/)  
 - 🖱️ [Botões e Cursores](https://robrthy.github.io/botoes_e_cursores/)  
-
-*(Se tu tiver imagens dos outros projetos, posso adicionar igual acima para cada um)*
 
 ---
 
@@ -82,17 +76,20 @@ Comecei no **Curso em Vídeo com Gustavo Guanabara**, depois fiz projetos como o
 
 ---
 
+## 📝 Exercícios da Rocketseat feitos
+- 🎵 [Player de Música](https://robrthy.github.io/player-de-musica/)  
+- 🛋️ [Product Card (Sofá)](https://robrthy.github.io/Product-card/)  
+- 🖱️ [Botões e Cursores](https://robrthy.github.io/botoes_e_cursores/)  
+- 💬 [Chat](https://robrthy.github.io/Chat/)  
+- 📊 [Calculadora](https://robrthy.github.io/Calculadora/)  
+
+---
+
 ## 🏆 Meus maiores sites
+- ☕ [Cafeteria Bonjour](https://robrthy.github.io/CafeteriaBonjour/) – Último site e destaque  
 - 🤖 [Google Glass (Curso em Vídeo)](https://robrthy.github.io/google-Glass/)  
 - 🛍️ [Meteora (Alura)](https://robrthy.github.io/Meteora/)  
 - ☕ [Serenatto (Alura)](https://robrthy.github.io/Serenatto/)  
 - 🎥 [Vidflow (Alura)](https://robrthy.github.io/Vidflow/)  
 - 📺 [AluraPlus (Alura)](https://robrthy.github.io/AluraPlus/)  
 - 📝 [Lista de Compras](https://robrthy.github.io/Compraslista/)  
-
----
-
-## 📬 Onde me encontrar
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](...)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](...)  
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](...)
