@@ -17,6 +17,7 @@
 ## 🌟 Projetos em destaque
 - ☕ [Cafeteria Bonjour](https://robrthy.github.io/CafeteriaBonjour/) – Último site desenvolvido, totalmente responsivo e moderno.  
 - 🍕 [Pizzaria Zene](https://robrthy.github.io/PizzariaZene/) – Site de pizzaria com design moderno e interativo.  
+- 🔥 [CursoOnline](https://robrthy.github.io/hotmart/) – Novo site em destaque, totalmente responsivo e moderno.
 
 ---
 
@@ -89,6 +90,7 @@ Comecei no **Curso em Vídeo com Gustavo Guanabara**, depois fiz projetos como o
 ## 🏆 Meus maiores sites
 - ☕ [Cafeteria Bonjour](https://robrthy.github.io/CafeteriaBonjour/) – Último site e destaque  
 - 🍕 [Pizzaria Zene](https://robrthy.github.io/PizzariaZene/) – Destaque moderno  
+- 🔥 [CursoOnline](https://robrthy.github.io/hotmart/) – Novo site em destaque  
 - 🤖 [Google Glass (Curso em Vídeo)](https://robrthy.github.io/google-Glass/)  
 - 🛍️ [Meteora (Alura)](https://robrthy.github.io/Meteora/)  
 - 🎥 [Vidflow (Alura)](https://robrthy.github.io/Vidflow/)  
