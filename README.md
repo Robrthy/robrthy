@@ -14,10 +14,15 @@
 
 ---
 
-## 🌟 Projetos em destaque
+## 🌟 Projeto em destaque
+- 🚀 [Site de Trabalho](https://robrthy.github.io/SiteDeTrabalho/) – Meu site mais recente, moderno, interativo e totalmente responsivo. O projeto que mostra melhor minhas habilidades em HTML, CSS e JavaScript!  
+
+---
+
+## 🏆 Outros projetos em destaque
 - ☕ [Cafeteria Bonjour](https://robrthy.github.io/CafeteriaBonjour/) – Último site desenvolvido, totalmente responsivo e moderno.  
 - 🍕 [Pizzaria Zene](https://robrthy.github.io/PizzariaZene/) – Site de pizzaria com design moderno e interativo.  
-- 🔥 [CursoOnline](https://robrthy.github.io/hotmart/) – Novo site em destaque, totalmente responsivo e moderno.
+- 🔥 [CursoOnline](https://robrthy.github.io/hotmart/) – Novo site, totalmente responsivo e moderno.
 
 ---
 
@@ -85,14 +90,3 @@ Comecei no **Curso em Vídeo com Gustavo Guanabara**, depois fiz projetos como o
 - 💬 [Chat](https://robrthy.github.io/Chat/)  
 - 📊 [Calculadora](https://robrthy.github.io/Calculadora/)  
 
----
-
-## 🏆 Meus maiores sites
-- ☕ [Cafeteria Bonjour](https://robrthy.github.io/CafeteriaBonjour/) – Último site e destaque  
-- 🍕 [Pizzaria Zene](https://robrthy.github.io/PizzariaZene/) – Destaque moderno  
-- 🔥 [CursoOnline](https://robrthy.github.io/hotmart/) – Novo site em destaque  
-- 🤖 [Google Glass (Curso em Vídeo)](https://robrthy.github.io/google-Glass/)  
-- 🛍️ [Meteora (Alura)](https://robrthy.github.io/Meteora/)  
-- 🎥 [Vidflow (Alura)](https://robrthy.github.io/Vidflow/)  
-- 📺 [AluraPlus (Alura)](https://robrthy.github.io/AluraPlus/)  
-- 📝 [Lista de Compras](https://robrthy.github.io/Compraslista/)  
