@@ -14,12 +14,9 @@
 
 ---
 
-## 🌟 Projeto em destaque
-- 🚀 [Site de Trabalho](https://robrthy.github.io/SiteDeTrabalho/) – Meu site mais recente, moderno, interativo e totalmente responsivo. O projeto que mostra melhor minhas habilidades em HTML, CSS e JavaScript!  
-
----
-
 ## 🏆 Outros projetos em destaque
+- 🛫 [SkyTravel - Passagem Aéreas](https://robrthy.github.io/SkyTravel---PassagemA-reas/) - Meu Site de passagens Aéreas com pacotes de descontos.
+- 🚀 [Site de Trabalho](https://robrthy.github.io/SiteDeTrabalho/) – Meu site mais recente, moderno, interativo e totalmente responsivo. O projeto que mostra melhor minhas habilidades em HTML, CSS e JavaScript!  
 - ☕ [Cafeteria Bonjour](https://robrthy.github.io/CafeteriaBonjour/) – Último site desenvolvido, totalmente responsivo e moderno.  
 - 🍕 [Pizzaria Zene](https://robrthy.github.io/PizzariaZene/) – Site de pizzaria com design moderno e interativo.  
 - 🔥 [CursoOnline](https://robrthy.github.io/hotmart/) – Novo site, totalmente responsivo e moderno.
