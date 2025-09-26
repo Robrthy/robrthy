@@ -5,16 +5,18 @@
 
 ---
 
-## 🚀 Tecnologias que eu uso
-<div style="display: inline_block"><br>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</div><br>
+## 🏆 Outros projetos em destaque
+- 🚗 [LuxCars](https://robrthy.github.io/LuxCars/) – Site de carros de luxo com design moderno e interativo.
+- 🛫 [SkyTravel - Passagem Aéreas](https://robrthy.github.io/SkyTravel---PassagemA-reas/) - Meu Site de passagens Aéreas com pacotes de descontos.
+- 🚀 [Site de Trabalho](https://robrthy.github.io/SiteDeTrabalho/) – Meu site mais recente, moderno, interativo e totalmente responsivo. O projeto que mostra melhor minhas habilidades em HTML, CSS e JavaScript!  
+- ☕ [Cafeteria Bonjour](https://robrthy.github.io/CafeteriaBonjour/) – Último site desenvolvido, totalmente responsivo e moderno.  
+- 🍕 [Pizzaria Zene](https://robrthy.github.io/PizzariaZene/) – Site de pizzaria com design moderno e interativo.  
+- 🔥 [CursoOnline](https://robrthy.github.io/hotmart/) – Novo site, totalmente responsivo e moderno.
 
 ---
 
 ## 🏆 Outros projetos em destaque
+- 
 - 🛫 [SkyTravel - Passagem Aéreas](https://robrthy.github.io/SkyTravel---PassagemA-reas/) - Meu Site de passagens Aéreas com pacotes de descontos.
 - 🚀 [Site de Trabalho](https://robrthy.github.io/SiteDeTrabalho/) – Meu site mais recente, moderno, interativo e totalmente responsivo. O projeto que mostra melhor minhas habilidades em HTML, CSS e JavaScript!  
 - ☕ [Cafeteria Bonjour](https://robrthy.github.io/CafeteriaBonjour/) – Último site desenvolvido, totalmente responsivo e moderno.  
