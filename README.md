@@ -1,72 +1,99 @@
-<div align="center">
+# 👋 Olá, eu sou o Robrthy Sene!
 
-# Olá, eu sou o Robrthy Sene 👋
+💻 Estudando programação desde os 10 anos | 🚀 Apaixonado por tecnologia  
+📍 15 anos, Brasil
 
-**Estudante de programação e criador de experiências para a web.**  
-Desenvolvo projetos com foco em design, interatividade e responsividade.
+---
 
-</div>
+## 🚀 Tecnologias que eu uso
 
-## Sobre mim
+<div style="display: inline_block"><br>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div><br>
 
-- 🇧🇷 Do Brasil
-- 💻 Estudo programação desde os 10 anos
-- 🚀 Em evolução constante com HTML, CSS e JavaScript
-- 🎯 Interesse em desenvolvimento front-end e criação de produtos digitais
+---
 
-## Tecnologias
+## 🏆 Outros projetos em destaque
 
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+- 🚗 [LuxCars](https://robrthy.github.io/LuxCars/) – Site de carros de luxo com design moderno e interativo.
+- 🛫 [SkyTravel - Passagens Aéreas](https://robrthy.github.io/SkyTravel---PassagemA-reas/) – Site de passagens aéreas com pacotes de descontos.
+- 🚀 [Site de Trabalho](https://robrthy.github.io/SiteDeTrabalho/) – Meu site mais recente, moderno, interativo e totalmente responsivo. O projeto que mostra melhor minhas habilidades em HTML, CSS e JavaScript!
+- ☕ [Cafeteria Bonjour](https://robrthy.github.io/CafeteriaBonjour/) – Último site desenvolvido, totalmente responsivo e moderno.
+- 🍕 [Pizzaria Zene](https://robrthy.github.io/PizzariaZene/) – Site de pizzaria com design moderno e interativo.
+- 🔥 [CursoOnline](https://robrthy.github.io/hotmart/) – Novo site, totalmente responsivo e moderno.
 
-## Projetos em destaque
+---
 
-| Projeto | Descrição | Acessar |
-| --- | --- | --- |
-| **Site de Trabalho** | Projeto recente, moderno, responsivo e interativo. | [Ver projeto](https://robrthy.github.io/SiteDeTrabalho/) |
-| **LuxCars** | Site de carros de luxo com interface moderna. | [Ver projeto](https://robrthy.github.io/LuxCars/) |
-| **SkyTravel** | Plataforma de passagens aéreas e pacotes promocionais. | [Ver projeto](https://robrthy.github.io/SkyTravel---PassagemA-reas/) |
-| **Cafeteria Bonjour** | Site responsivo para uma cafeteria. | [Ver projeto](https://robrthy.github.io/CafeteriaBonjour/) |
-| **Pizzaria Zene** | Projeto de pizzaria com design interativo. | [Ver projeto](https://robrthy.github.io/PizzariaZene/) |
-| **CursoOnline** | Site de cursos online, responsivo e moderno. | [Ver projeto](https://robrthy.github.io/hotmart/) |
+## 📌 Projetos principais
 
-## Mais projetos
+- 🎥 [Vidflow](https://robrthy.github.io/Vidflow/) – Plataforma de streaming de vídeos
+- 🛍️ [Meteora](https://robrthy.github.io/Meteora/) – Loja online moderna
+- 🤖 [Google Glass](https://robrthy.github.io/google-Glass/) – Projeto Curso em Vídeo
+- ☕ [Serenatto](https://robrthy.github.io/Serenatto/) – Site de cafeteria
 
-<p>
-  <a href="https://robrthy.github.io/Vidflow/">Vidflow</a> ·
-  <a href="https://robrthy.github.io/Meteora/">Meteora</a> ·
-  <a href="https://robrthy.github.io/google-Glass/">Google Glass</a> ·
-  <a href="https://robrthy.github.io/Serenatto/">Serenatto</a> ·
-  <a href="https://robrthy.github.io/Chat/">Chat</a> ·
-  <a href="https://robrthy.github.io/Calculadora/">Calculadora</a> ·
-  <a href="https://robrthy.github.io/AluraPlus/">Alura Plus</a> ·
-  <a href="https://robrthy.github.io/Compraslista/">Lista de Compras</a>
-</p>
+---
 
-## Estudos e desafios
+## 🎯 Outros projetos
 
-Minha jornada começou no [Curso em Vídeo](https://www.cursoemvideo.com/), com projetos como **Google Glass**. Também estudo por meio da [Rocketseat](https://app.rocketseat.com.br/) e da [Alura](https://cursos.alura.com.br/course/bootstrap5-landing-page-responsiva).
+- 📱 [Chat](https://robrthy.github.io/Chat/)
+- 📊 [Calculadora](https://robrthy.github.io/Calculadora/)
+- 🎵 [Player de Música](https://robrthy.github.io/player-de-musica/)
+- 📺 [AluraPlus](https://robrthy.github.io/AluraPlus/)
+- 📝 [Lista de Compras](https://robrthy.github.io/Compraslista/)
+- 🛋️ [Product Card (Sofá)](https://robrthy.github.io/Product-card/)
+- 🖱️ [Botões e Cursores](https://robrthy.github.io/botoes_e_cursores/)
 
-### Rocketseat — #BoraCodar
+---
 
-- [Player de Música](https://robrthy.github.io/player-de-musica/)
-- [Product Card (Sofá)](https://robrthy.github.io/Product-card/)
-- [Botões e Cursores](https://robrthy.github.io/botoes_e_cursores/)
-- [Chat](https://robrthy.github.io/Chat/)
-- [Calculadora](https://robrthy.github.io/Calculadora/)
-
-## Estatísticas
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165" alt="Estatísticas do GitHub de Robrthy" src="https://github-readme-stats.vercel.app/api?username=robrthy&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" alt="Linguagens mais usadas por Robrthy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robrthy&layout=compact&theme=transparent&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=robrthy&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robrthy&layout=compact&theme=radical"/>
 </div>
 
-<div align="center">
+---
 
-_Sempre aprendendo, construindo e melhorando._
+## 😁 Sobre mim
 
-</div>
+✨ Tenho 15 anos, estudo programação desde os 10 e já desenvolvi vários projetos com **HTML, CSS e JavaScript**.  
+Comecei no **Curso em Vídeo com Gustavo Guanabara**, depois fiz projetos como o **Google Glass** e segui para os cursos da **Rocketseat** e **Alura**.
+
+💡 Sempre aprendendo e criando novos projetos!
+
+---
+
+## 📚 Cursos que fiz e recomendo
+
+- 🎓 [Curso em Vídeo](https://www.cursoemvideo.com/)
+- 🎓 [Alura](https://cursos.alura.com.br/course/bootstrap5-landing-page-responsiva)
+- 🎓 [Rocketseat](https://app.rocketseat.com.br/)
+
+---
+
+## 🤓 Rocketseat - Trilha de estudos
+
+- [Trilha Conectar](https://app.rocketseat.com.br/discover-2022/trails/conectar)
+- [Trilha Fundamentar](https://app.rocketseat.com.br/discover-2022/trails/fundamentar)
+- [Trilha Especializar](https://app.rocketseat.com.br/discover-2022/trails/especializar)
+
+---
+
+## 🚀 Projeto da Rocketseat – #BoraCodar
+
+- 🎵 [Aula 01 – Player de Música](https://app.rocketseat.com.br/plus/lesson/bora-codar-um-player-de-musica-desafio-01)
+- 🛋️ [Aula 02 – Card de Produto](https://app.rocketseat.com.br/plus/lesson/bora-codar-um-card-de-produto-desafio-02)
+- 🖱️ [Aula 03 – Botões e Cursores](https://app.rocketseat.com.br/plus/lesson/bora-codar-botoes-e-cursores-desafio-03)
+- 💬 [Aula 04 – Chat](https://app.rocketseat.com.br/plus/lesson/bora-codar-um-chat-desafio-04)
+
+---
+
+## 📝 Exercícios da Rocketseat feitos
+
+- 🎵 [Player de Música](https://robrthy.github.io/player-de-musica/)
+- 🛋️ [Product Card (Sofá)](https://robrthy.github.io/Product-card/)
+- 🖱️ [Botões e Cursores](https://robrthy.github.io/botoes_e_cursores/)
+- 💬 [Chat](https://robrthy.github.io/Chat/)
+- 📊 [Calculadora](https://robrthy.github.io/Calculadora/)
