@@ -50,7 +50,7 @@
 
 ## 🤖 Projetos feitos com Codex
 
-- 📝 [Form](https://robrthy.github.io/form/) – Projeto criado com Codex.
+- 📝 [Meu Primeiro Site com Codex](https://robrthy.github.io/Meu-Primeiro-Site-com-Codex/) – Projeto criado com Codex.
 
 ---
 
