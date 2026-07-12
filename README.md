@@ -50,7 +50,7 @@
 
 ## 🤖 Projetos feitos com Codex
 
-- 📝 [Meu Primeiro Site com Codex](https://robrthy.github.io/Meu-Primeiro-Site-com-Codex/) – Projeto criado com Codex.
+- 🔥 [Brasa & Espeto](https://robrthy.github.io/Meu-Primeiro-Site-com-Codex/) – Projeto criado com Codex.
 
 ---
 
