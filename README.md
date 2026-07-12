@@ -1,4 +1,3 @@
-```md
 # 👋 Olá, eu sou o Robrthy Sene!
 
 💻 Estudando programação desde os 10 anos | 🚀 Apaixonado por tecnologia  
@@ -47,6 +46,7 @@
 - 🖱️ [Botões e Cursores](https://robrthy.github.io/botoes_e_cursores/)
 
 ---
+
 
 ## 🤖 Projetos feitos com Codex
 
@@ -104,4 +104,3 @@ Comecei no **Curso em Vídeo com Gustavo Guanabara**, depois fiz projetos como o
 - 🖱️ [Botões e Cursores](https://robrthy.github.io/botoes_e_cursores/)
 - 💬 [Chat](https://robrthy.github.io/Chat/)
 - 📊 [Calculadora](https://robrthy.github.io/Calculadora/)
-```
